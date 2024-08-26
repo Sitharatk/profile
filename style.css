@@ -198,7 +198,7 @@ body{
     text-decoration: none;
 }
 #skill{
-    height: 110vh;
+    height: auto;
     width: 100%;
     background-color: rgb(180, 144, 110);
     display: flex;
@@ -218,13 +218,13 @@ body{
 }
 .skill-container{
     width: 90%;
-    height: 25%;
+    height: auto;
     display: flex;
  
 }
 
 .skill-container .skill-fm {
-    height: 300px;
+    height: auto;
     width:300px;
     display: flex;
     justify-content: center;
