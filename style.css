@@ -27,6 +27,11 @@ body{
 .nav-item{
     margin-right: 25px;
 }
+.navbar-toggler-icon {
+    background-image: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30"><path stroke="currentColor" stroke-width="2" d="M5 7h20M5 15h20M5 23h20"/></svg>');
+ 
+  
+}
 #home{
 
     height: auto;
