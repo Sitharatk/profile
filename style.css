@@ -237,7 +237,7 @@ body{
 
 .skill-container .skill-fm {
     height: auto;
-    width:300px;
+    width:auto;
     display: flex;
     justify-content: center;
     margin-left: 10%;
