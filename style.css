@@ -9,9 +9,11 @@ body{
    
 }
 .navbar{
-   background-color: rgb(112, 57, 57);
+  
+    background-color: rgb(112, 57, 57);
     padding: 20px;
     padding-left: 40px;
+  
 }
 .navbar-brand ,.nav-link{
     text-decoration: none;
@@ -28,7 +30,10 @@ body{
 }
 .navbar-toggler-icon {
     background-image: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30"><path stroke="currentColor" stroke-width="2" d="M5 7h20M5 15h20M5 23h20"/></svg>');
+ 
+  
 }
+
 #home{
 
     height: auto;
@@ -60,9 +65,7 @@ body{
     justify-content: center;
     align-items: center;
     margin-top: 100px;
-     margin-right: 100px;
-  
-
+    margin-right: 100px;
 
     /* background-color: rgb(235, 221, 204); */
     /* flex-direction: column;
@@ -141,7 +144,7 @@ body{
     background-color: #2b2727;
 } 
 #about{
-    height: 85vh;
+    height: auto;
     width: auto;
     background-color: rgb(107, 67, 67);
     display: flex;
@@ -173,13 +176,14 @@ body{
 
 }
 .about-down{
-    height:75px;
-    width: 45%;
+    height:auto;
+    width: auto;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    padding-top: 7%;
-    padding-left: 9%;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    
 }
 .about-down .inst{
     height: 60px;
@@ -191,7 +195,7 @@ body{
     justify-content: center;
     align-items: center;
     transition: transform 1s;
-    margin-left: 500%;
+  
     font-size: 30px;
     color:rgb(161, 113, 51)
    
@@ -464,7 +468,7 @@ form button:hover{
         margin: 25px;
     }
     .about-down .inst{
-        margin-left: 80px;
+        margin-left: 30px;
         margin-bottom: 70px;
     }
     #skill .skill-head{
