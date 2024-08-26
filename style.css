@@ -52,9 +52,9 @@ body{
     width:50%;
     display: flex;
     justify-content: left;
-    align-items: center;
+    align-items: left;
     margin-top: 100px;
-/*     margin-left:40px; */
+    margin-left: 40px;
 
     /* background-color: rgb(235, 221, 204); */
     /* flex-direction: column;
