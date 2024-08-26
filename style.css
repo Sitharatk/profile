@@ -26,7 +26,7 @@ body{
 #home{
 
     height: auto;
-    width: 100%;
+    width: auto;
     background-color: rgb(180, 144, 110);
     display: flex;
     
@@ -136,7 +136,7 @@ body{
 } 
 #about{
     height: 85vh;
-    width: 100%;
+    width: auto;
     background-color: rgb(107, 67, 67);
     display: flex;
     flex-direction: column;
@@ -202,7 +202,7 @@ body{
 }
 #skill{
     height: auto;
-    width: 100%;
+    width: auto;
     background-color: rgb(180, 144, 110);
     display: flex;
     flex-direction: column;
@@ -248,7 +248,7 @@ body{
     padding-top: 8px;
 }
 #project {
-    width: 100%;
+    width: auto;
     background-color: rgb(124, 85, 85);
     padding-top: 40px;
     padding-bottom: 30px;
@@ -301,7 +301,7 @@ font-weight: 600;
 
 #contact{
     height: auto;
-    width: 100%;
+    width: auto;
     background-color: rgb(180, 144, 110);
     display: flex;
     justify-content: center;
